@@ -1,6 +1,6 @@
 ﻿FUNCTION_BLOCK "Runtime_test"
 { S7_Optimized_Access := 'TRUE' }
-VERSION : 0.1
+VERSION : 1.1
    VAR 
       FB_LTIME_opt : LReal;
       FB_LTIME_notopt : LReal;
